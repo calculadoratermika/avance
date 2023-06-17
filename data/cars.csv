@@ -1,0 +1,99 @@
+in:Opcion_vidrio,in:Opción Clima,out:Vidrio,out:Ciudad,out:Refrig  (kWh),out:Refr  (kW),out:Calef  (kWh),out:Calef  (kW),img
+0,0,Simple incoloro,Buenos Aires,51635.171354,101.741197,829.587411,28.038104,Opcion_vidrio0_OpciónClima0.png
+1,0,Simple tonalizado,Buenos Aires,41291.850371,85.390387,1384.752024,28.038104,Opcion_vidrio1_OpciónClima0.png
+2,0,Simple reflectivo #2,Buenos Aires,37334.398096,80.190104,1669.130412,28.038104,Opcion_vidrio2_OpciónClima0.png
+3,0,DVH incoloro,Buenos Aires,53256.144076,94.624955,54.872565,18.497326,Opcion_vidrio3_OpciónClima0.png
+4,0,DVH tonalizado,Buenos Aires,40964.703108,73.666049,190.608475,18.497326,Opcion_vidrio4_OpciónClima0.png
+5,0,DVH reflectivo #2,Buenos Aires,36427.06245,66.268021,296.220954,18.497326,Opcion_vidrio5_OpciónClima0.png
+6,0,DVH incoloro c/low-e #3,Buenos Aires,55708.849856,94.54038,3.647342,14.305244,Opcion_vidrio6_OpciónClima0.png
+7,0,DVH tonalizado c/low-e #3,Buenos Aires,41307.993719,70.130567,33.262251,14.305244,Opcion_vidrio7_OpciónClima0.png
+8,0,DVH tonalizado y reflectivo c/low-e #2,Buenos Aires,38114.929831,64.980348,56.464311,14.305244,Opcion_vidrio8_OpciónClima0.png
+9,0,DVH reflectivo c/low-e #2,Buenos Aires,36226.460963,61.223282,46.985467,13.268396,Opcion_vidrio9_OpciónClima0.png
+10,0,DVH reflectivo c/2 low-e #2,Buenos Aires,35078.928018,58.988598,32.353268,12.187475,Opcion_vidrio10_OpciónClima0.png
+0,1,Simple incoloro,Córdoba,48177.413663,106.680635,1805.074649,34.911445,Opcion_vidrio0_OpciónClima1.png
+1,1,Simple tonalizado,Córdoba,37836.286044,90.192319,2821.793007,34.911445,Opcion_vidrio1_OpciónClima1.png
+2,1,Simple reflectivo #2,Córdoba,34084.51156,84.767641,3299.769496,34.911445,Opcion_vidrio2_OpciónClima1.png
+3,1,DVH incoloro,Córdoba,50121.517307,98.047397,186.950196,23.41848,Opcion_vidrio3_OpciónClima1.png
+4,1,DVH tonalizado,Córdoba,37985.558434,76.352466,558.048354,23.41848,Opcion_vidrio4_OpciónClima1.png
+5,1,DVH reflectivo #2,Córdoba,33515.916875,68.685041,801.397572,23.41848,Opcion_vidrio5_OpciónClima1.png
+6,1,DVH incoloro c/low-e #3,Córdoba,52817.808698,97.473859,21.164432,18.253442,Opcion_vidrio6_OpciónClima1.png
+7,1,DVH tonalizado c/low-e #3,Córdoba,38592.147454,72.151124,125.675019,18.253442,Opcion_vidrio7_OpciónClima1.png
+8,1,DVH tonalizado y reflectivo c/low-e #2,Córdoba,35449.127369,66.864252,197.769748,18.253442,Opcion_vidrio8_OpciónClima1.png
+9,1,DVH reflectivo c/low-e #2,Córdoba,33677.98802,62.663392,170.130888,16.964036,Opcion_vidrio9_OpciónClima1.png
+10,1,DVH reflectivo c/2 low-e #2,Córdoba,32778.36921,60.217301,123.585661,15.614513,Opcion_vidrio10_OpciónClima1.png
+0,2,Simple incoloro,Mendoza,54148.213672,107.924564,1833.742796,32.268025,Opcion_vidrio0_OpciónClima2.png
+1,2,Simple tonalizado,Mendoza,43633.302705,92.517244,2953.825465,32.268025,Opcion_vidrio1_OpciónClima2.png
+2,2,Simple reflectivo #2,Mendoza,39668.332074,87.314291,3500.836105,32.268025,Opcion_vidrio2_OpciónClima2.png
+3,2,DVH incoloro,Mendoza,54176.248479,97.851159,204.178177,22.164618,Opcion_vidrio3_OpciónClima2.png
+4,2,DVH tonalizado,Mendoza,41359.478028,76.693178,602.925954,22.164618,Opcion_vidrio4_OpciónClima2.png
+5,2,DVH reflectivo #2,Mendoza,36615.426336,69.180258,906.529079,22.164618,Opcion_vidrio5_OpciónClima2.png
+6,2,DVH incoloro c/low-e #3,Mendoza,56227.743257,96.931381,16.469834,17.488854,Opcion_vidrio6_OpciónClima2.png
+7,2,DVH tonalizado c/low-e #3,Mendoza,41222.205575,72.242019,156.092599,17.488854,Opcion_vidrio7_OpciónClima2.png
+8,2,DVH tonalizado y reflectivo c/low-e #2,Mendoza,37887.556201,66.971201,239.60476,17.488854,Opcion_vidrio8_OpciónClima2.png
+9,2,DVH reflectivo c/low-e #2,Mendoza,35852.420727,62.950271,214.485239,16.306747,Opcion_vidrio9_OpciónClima2.png
+10,2,DVH reflectivo c/2 low-e #2,Mendoza,34722.941537,60.442696,163.014758,15.062777,Opcion_vidrio10_OpciónClima2.png
+0,3,Simple incoloro,S. M. de Tucumán,55175.055811,107.658692,269.872368,29.569823,Opcion_vidrio0_OpciónClima3.png
+1,3,Simple tonalizado,S. M. de Tucumán,46488.908884,93.085105,547.664745,29.569823,Opcion_vidrio1_OpciónClima3.png
+2,3,Simple reflectivo #2,S. M. de Tucumán,43026.068841,88.115697,700.320308,29.569823,Opcion_vidrio2_OpciónClima3.png
+3,3,DVH incoloro,S. M. de Tucumán,55697.132521,98.49884,5.295206,19.67794,Opcion_vidrio3_OpciónClima3.png
+4,3,DVH tonalizado,S. M. de Tucumán,44745.201855,77.093232,38.40711,19.67794,Opcion_vidrio4_OpciónClima3.png
+5,3,DVH reflectivo #2,S. M. de Tucumán,40835.721429,69.834221,80.77965,19.67794,Opcion_vidrio5_OpciónClima3.png
+6,3,DVH incoloro c/low-e #3,S. M. de Tucumán,57523.661031,97.594348,0,15.26841,Opcion_vidrio6_OpciónClima3.png
+7,3,DVH tonalizado c/low-e #3,S. M. de Tucumán,44415.021693,72.470927,2.825608,15.26841,Opcion_vidrio7_OpciónClima3.png
+8,3,DVH tonalizado y reflectivo c/low-e #2,S. M. de Tucumán,42021.65071,67.387503,4.691959,15.26841,Opcion_vidrio8_OpciónClima3.png
+9,3,DVH reflectivo c/low-e #2,S. M. de Tucumán,40208.215463,63.438402,3.600454,14.171569,Opcion_vidrio9_OpciónClima3.png
+10,3,DVH reflectivo c/2 low-e #2,S. M. de Tucumán,39227.897509,60.955259,2.07321,13.025413,Opcion_vidrio10_OpciónClima3.png
+0,4,Simple incoloro,Mar del Plata,40189.384247,104.28996,3297.328598,35.676405,Opcion_vidrio0_OpciónClima4.png
+1,4,Simple tonalizado,Mar del Plata,29552.720424,86.51073,4979.284754,35.676405,Opcion_vidrio1_OpciónClima4.png
+2,4,Simple reflectivo #2,Mar del Plata,25822.052491,81.011129,5766.950575,35.676405,Opcion_vidrio2_OpciónClima4.png
+3,4,DVH incoloro,Mar del Plata,43748.286712,96.732536,437.874205,23.984134,Opcion_vidrio3_OpciónClima4.png
+4,4,DVH tonalizado,Mar del Plata,31259.022426,74.654764,1181.098713,23.984134,Opcion_vidrio4_OpciónClima4.png
+5,4,DVH reflectivo #2,Mar del Plata,26769.130224,66.95291,1673.48101,23.984134,Opcion_vidrio5_OpciónClima4.png
+6,4,DVH incoloro c/low-e #3,Mar del Plata,47309.889605,96.523554,38.350128,18.735789,Opcion_vidrio6_OpciónClima4.png
+7,4,DVH tonalizado c/low-e #3,Mar del Plata,32532.207963,71.008419,307.719143,18.735789,Opcion_vidrio7_OpciónClima4.png
+8,4,DVH tonalizado y reflectivo c/low-e #2,Mar del Plata,29352.477513,65.660657,458.707309,18.735789,Opcion_vidrio8_OpciónClima4.png
+9,4,DVH reflectivo c/low-e #2,Mar del Plata,27735.48542,61.568046,403.51377,17.425795,Opcion_vidrio9_OpciónClima4.png
+10,4,DVH reflectivo c/2 low-e #2,Mar del Plata,26979.806703,59.217841,304.591093,16.054727,Opcion_vidrio10_OpciónClima4.png
+0,5,Simple incoloro,Santa Fé,56722.981282,107.430337,1573.431544,31.611198,Opcion_vidrio0_OpciónClima5.png
+1,5,Simple tonalizado,Santa Fé,46653.592196,91.755421,2262.845113,31.611198,Opcion_vidrio1_OpciónClima5.png
+2,5,Simple reflectivo #2,Santa Fé,42725.227854,86.758792,2581.842725,31.611198,Opcion_vidrio2_OpciónClima5.png
+3,5,DVH incoloro,Santa Fé,57016.994045,97.40367,212.181131,21.586221,Opcion_vidrio3_OpciónClima5.png
+4,5,DVH tonalizado,Santa Fé,44868.885723,76.528986,491.218017,21.586221,Opcion_vidrio4_OpciónClima5.png
+5,5,DVH reflectivo #2,Santa Fé,40356.137799,69.059285,674.993937,21.586221,Opcion_vidrio5_OpciónClima5.png
+6,5,DVH incoloro c/low-e #3,Santa Fé,59032.941021,96.367269,14.693461,16.995057,Opcion_vidrio6_OpciónClima5.png
+7,5,DVH tonalizado c/low-e #3,Santa Fé,44693.941999,72.084192,113.343365,16.995057,Opcion_vidrio7_OpciónClima5.png
+8,5,DVH tonalizado y reflectivo c/low-e #2,Santa Fé,41503.232828,66.873035,162.358636,16.995057,Opcion_vidrio8_OpciónClima5.png
+9,5,DVH reflectivo c/low-e #2,Santa Fé,39651.814827,62.882382,127.046421,15.839211,Opcion_vidrio9_OpciónClima5.png
+10,5,DVH reflectivo c/2 low-e #2,Santa Fé,38547.793515,60.488307,81.760299,14.625002,Opcion_vidrio10_OpciónClima5.png
+0,6,Simple incoloro,Neuquén,50548.054999,110.304068,4410.63273,37.859846,Opcion_vidrio0_OpciónClima6.png
+1,6,Simple tonalizado,Neuquén,39304.321386,93.838162,6159.900181,37.859846,Opcion_vidrio1_OpciónClima6.png
+2,6,Simple reflectivo #2,Neuquén,35117.064404,88.139579,6960.348044,37.859846,Opcion_vidrio2_OpciónClima6.png
+3,6,DVH incoloro,Neuquén,51425.618209,100.558123,943.939903,25.814696,Opcion_vidrio3_OpciónClima6.png
+4,6,DVH tonalizado,Neuquén,37809.633143,78.253883,1936.452156,25.814696,Opcion_vidrio4_OpciónClima6.png
+5,6,DVH reflectivo #2,Neuquén,32792.025002,70.439036,2519.021931,25.814696,Opcion_vidrio5_OpciónClima6.png
+6,6,DVH incoloro c/low-e #3,Neuquén,54015.324389,99.577302,210.61528,20.321722,Opcion_vidrio6_OpciónClima6.png
+7,6,DVH tonalizado c/low-e #3,Neuquén,37927.081168,73.617622,732.193385,20.321722,Opcion_vidrio7_OpciónClima6.png
+8,6,DVH tonalizado y reflectivo c/low-e #2,Neuquén,34465.513734,68.201927,958.211462,20.321722,Opcion_vidrio8_OpciónClima6.png
+9,6,DVH reflectivo c/low-e #2,Neuquén,32362.304264,63.872112,857.056501,18.939396,Opcion_vidrio9_OpciónClima6.png
+10,6,DVH reflectivo c/2 low-e #2,Neuquén,31237.838939,61.197593,685.491128,17.487857,Opcion_vidrio10_OpciónClima6.png
+0,7,Simple incoloro,S. F. del Valle de Catamarca,60195.468108,108.377267,835.020075,30.783828,Opcion_vidrio0_OpciónClima7.png
+1,7,Simple tonalizado,S. F. del Valle de Catamarca,49812.477288,92.728337,1403.459446,30.783828,Opcion_vidrio1_OpciónClima7.png
+2,7,Simple reflectivo #2,S. F. del Valle de Catamarca,45964.881009,87.527747,1684.066755,30.783828,Opcion_vidrio2_OpciónClima7.png
+3,7,DVH incoloro,S. F. del Valle de Catamarca,59974.358892,98.974293,89.410828,20.763432,Opcion_vidrio3_OpciónClima7.png
+4,7,DVH tonalizado,S. F. del Valle de Catamarca,48041.392742,78.102364,227.617504,20.763432,Opcion_vidrio4_OpciónClima7.png
+5,7,DVH reflectivo #2,S. F. del Valle de Catamarca,43558.59245,70.971464,340.127194,20.763432,Opcion_vidrio5_OpciónClima7.png
+6,7,DVH incoloro c/low-e #3,S. F. del Valle de Catamarca,61469.862762,98.146472,17.760641,16.221059,Opcion_vidrio6_OpciónClima7.png
+7,7,DVH tonalizado c/low-e #3,S. F. del Valle de Catamarca,47457.816608,73.30069,71.633619,16.221059,Opcion_vidrio7_OpciónClima7.png
+8,7,DVH tonalizado y reflectivo c/low-e #2,S. F. del Valle de Catamarca,44460.608741,68.243531,99.83381,16.221059,Opcion_vidrio8_OpciónClima7.png
+9,7,DVH reflectivo c/low-e #2,S. F. del Valle de Catamarca,42393.375392,64.234456,91.055973,15.083058,Opcion_vidrio9_OpciónClima7.png
+10,7,DVH reflectivo c/2 low-e #2,S. F. del Valle de Catamarca,41197.567704,61.68386,72.70542,13.890219,Opcion_vidrio10_OpciónClima7.png
+0,8,Simple incoloro,San Julián,30193.214005,107.95193,12106.650314,43.946581,Opcion_vidrio0_OpciónClima8.png
+1,8,Simple tonalizado,San Julián,19000.906496,86.408985,15922.326574,43.946581,Opcion_vidrio1_OpciónClima8.png
+2,8,Simple reflectivo #2,San Julián,15391.223427,79.239052,17473.291756,43.946581,Opcion_vidrio2_OpciónClima8.png
+3,8,DVH incoloro,San Julián,35881.561236,100.948629,3079.098531,28.289037,Opcion_vidrio3_OpciónClima8.png
+4,8,DVH tonalizado,San Julián,22692.612746,77.393697,5505.776236,28.289037,Opcion_vidrio4_OpciónClima8.png
+5,8,DVH reflectivo #2,San Julián,18067.267653,68.959525,6743.856621,28.289037,Opcion_vidrio5_OpciónClima8.png
+6,8,DVH incoloro c/low-e #3,San Julián,40568.895018,100.855738,817.581607,21.675266,Opcion_vidrio6_OpciónClima8.png
+7,8,DVH tonalizado c/low-e #3,San Julián,24785.012826,73.732855,2311.384312,21.675266,Opcion_vidrio7_OpciónClima8.png
+8,8,DVH tonalizado y reflectivo c/low-e #2,San Julián,21387.589419,67.90265,2879.667727,21.675266,Opcion_vidrio8_OpciónClima8.png
+9,8,DVH reflectivo c/low-e #2,San Julián,19821.801232,63.455942,2552.642116,20.063293,Opcion_vidrio9_OpciónClima8.png
